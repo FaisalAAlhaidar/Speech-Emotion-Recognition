@@ -4,7 +4,7 @@ This project aims to identify the emotion present in an instance of a person spe
 
 ## Dataset
 
-The dataset utilized for training and evaluating the models is the [Emotional Speech Dataset (ESD)](github.com/HLTSingapore/Emotional-Speech-Data). The dataset consists of voice files of 20 different actors for each class (emotion), half of them being English and the other half being Chinese, also for each language there are 5 male and 5 female actors. Emotions are happy, sad, neutral, surprise, and angry.
+The dataset utilized for training and evaluating the models is the [Emotional Speech Dataset (ESD)](https://github.com/HLTSingapore/Emotional-Speech-Data). The dataset consists of voice files of 20 different actors for each class (emotion), half of them being English and the other half being Chinese, also for each language there are 5 male and 5 female actors. Emotions are happy, sad, neutral, surprise, and angry.
 To avoid overfitting, the actors selected for training and testing are different. Specifically, the actors selected for training are: 
 * Chinese Male: 4, 6, 10
 * Chinese Female: 2, 3, 7
